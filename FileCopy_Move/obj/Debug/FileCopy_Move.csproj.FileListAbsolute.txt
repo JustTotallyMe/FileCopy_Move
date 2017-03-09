@@ -1,0 +1,2 @@
+C:\TFS\Tools\FileCopy_Move\FileCopy_Move\bin\Debug\FileCopy_Move.exe.config
+C:\4GitHub\FileCopy_Move\FileCopy_Move\bin\Debug\FileCopy_Move.exe.config
